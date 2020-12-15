@@ -12,9 +12,9 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR KEY HERE"
-    OWNER_ID = "YOUR ID HERE"
-    OWNER_USERNAME = "YOUR USERNAME HERE"
+    API_KEY = "1438006148:AAHtbv8Q-JvrDW9-5T-vaxlrnNCKcnRkmfo"
+    OWNER_ID = "957539786"
+    OWNER_USERNAME = "@TioDexty"
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'postgres://hzcyvgnurawrau:708ca1f465d94b0711757768554c761e244c260d8bdae6de5e80d23184cab068@ec2-54-208-233-243.compute-1.amazonaw'
