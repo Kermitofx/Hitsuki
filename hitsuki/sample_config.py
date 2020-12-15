@@ -17,7 +17,7 @@ class Config(object):
     OWNER_USERNAME = "YOUR USERNAME HERE"
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'
+    SQLALCHEMY_DATABASE_URI = 'postgres://hzcyvgnurawrau:708ca1f465d94b0711757768554c761e244c260d8bdae6de5e80d23184cab068@ec2-54-208-233-243.compute-1.amazonaw'
     MESSAGE_DUMP = None
     LOAD = []
     NO_LOAD = []
