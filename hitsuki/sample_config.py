@@ -29,7 +29,7 @@ class Config(object):
     SUPPORT_USERS = []
     WHITELIST_USERS = []
     CERT_PATH = None
-    PORT = 5000
+    PORT = 5432
     DEL_CMDS = False
     STRICT_GBAN = False
     WORKERS = 8
